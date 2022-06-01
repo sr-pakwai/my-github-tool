@@ -1,0 +1,17 @@
+{
+  "name": "my-github-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "csv-writer": "^1.6.0",
+    "nodemon": "^2.0.15"
+  }
+}
